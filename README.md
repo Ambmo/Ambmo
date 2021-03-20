@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile App Developmet
 - 🌱 I’m currently learning DataStructure&Algorithms
 - 💞️ I’m looking to collaborate on Flutter Apps develpment
-- 📫 How to reach me Email
+- 📫 How to reach me via Email
 
 <!---
 Ambmo/Ambmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
